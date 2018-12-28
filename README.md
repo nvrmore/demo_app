@@ -1,8 +1,4 @@
-# test task  / Nuxt.js
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-### Installation
-
+Nuxt.js test
 
 ```sh
 $ git clone
