@@ -2,7 +2,7 @@ Nuxt.js test
 
 ```sh
 $ git clone
-$ cd softex-test
+$ cd demo_app
 $ npm install
 $ npm run dev
 $ npm run build
